@@ -1,4 +1,5 @@
 # ninja-jobs
+simple example of using Vue3 with router
 
 ## Project setup
 ```
